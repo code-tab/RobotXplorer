@@ -1,7 +1,7 @@
 # RobotXplorer
 React + Redux
 
-To run the project:
+To run the project implement the below point:
 
 1. Clone this repo
 2. Run `npm install`
